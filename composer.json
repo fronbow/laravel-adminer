@@ -54,7 +54,6 @@
         "moharrum"
     ],
     "require": {
-        "php": "^7.1",
         "illuminate/support": "~5|~6|~7|~8"
     },
     "autoload": {
