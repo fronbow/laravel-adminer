@@ -37,7 +37,7 @@ This package is a wrapper around [Adminer](https://www.adminer.org), it makes [A
 
 ## Features
 
-- Current [Adminer](https://www.adminer.org) version used is: `4.7.7`.
+- Current [Adminer](https://www.adminer.org) version used is: `4.8.1`.
 - Supports both [Adminer](https://www.adminer.org) and [Adminer Editor](https://www.adminer.org/editor).
 - Plugins are integrated easily.
 - Alternative designs shipped with this package.
